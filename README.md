@@ -24,8 +24,7 @@
 
 ---
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chang-Man&layout=compact&theme=buefy&hide_border=true&disable_animations=false&count_private=true" />|
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chang-Man&layout=compact&theme=buefy&hide_border=true&disable_animations=false&count_private=true" />
 
 <!-- 
 
