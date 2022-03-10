@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%23010003&width=700&height=40&lines=Hi+there%2C+I'm+Chang-Man)](https://git.io/typing-svg)
 
-## I'm a Software Developer </br> just a funny guy >_<
+## 
 
 - 🔭 Undergraduate student at Seoul National University
 - 💘 Love to develop web-based applications
