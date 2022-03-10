@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%23010003&width=700&height=40&lines=안녕하세요구르트~%2C+I'm+Chang-Man)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%23010003&width=700&height=40&lines=Hi+there~%2C+I'm+Chang-Man)](https://git.io/typing-svg)
 
-## HELL
+## HELLO WORLD
 
 - 🔭 Undergraduate student at Seoul National University
 - 💘 Love to develop web-based applications
