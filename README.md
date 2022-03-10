@@ -1,14 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%23010003&width=700&height=40&lines=Hi+there%2C+I'm+Shamshod)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%23010003&width=700&height=40&lines=Hi+there%2C+I'm+Chang-Man)](https://git.io/typing-svg)
 
-## I'm a Software Developer, Entrepreneur and . . . </br> just a funny guy >_<
+## I'm a Software Developer </br> just a funny guy >_<
 
 - 🔭 Undergraduate student at Seoul National University
 - 💘 Love to develop web-based applications
 
-### Connect with me:
-
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
