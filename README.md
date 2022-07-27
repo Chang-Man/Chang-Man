@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%23010003&width=700&height=40&lines=Hi+there~%2C+I'm+Chang-Man)](https://git.io/typing-svg)
 
-## 꿈은 없고요. 그냥 놀고싶습니다.
+## 재미있는 것들을 잔뜩 만들고싶어요.
 
 - 🔭 Undergraduate student at Seoul National University
 - 💘 Love to develop web-based applications
