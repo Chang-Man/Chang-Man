@@ -4,6 +4,7 @@
 
 - 🔭 Undergraduate student at Seoul National University
 - 💘 Love to develop web-based applications
+- Blog : <https://chang-man.github.io>
 
 <br />
 
